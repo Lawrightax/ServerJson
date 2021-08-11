@@ -3,62 +3,74 @@
     {
       "id": 1,
       "title": "Post 1",
-      "author": "lucas"
+      "author": "lucas",
+      "content": "je bois de l'orange"
     },
     {
       "id": 2,
       "title": "Post 2",
-      "author": "lucas"
+      "author": "lucas",
+      "content": "je bois de l'orange"
     },
     {
       "id": 3,
       "title": "Post 3",
-      "author": "lucas"
+      "author": "lucas",
+      "content": "je bois de la grenadine"
     },
     {
       "id": 4,
       "title": "Post 4",
-      "author": "lucas"
+      "author": "lucas",
+      "content": "je bois de la menthe"
     },
     {
       "id": 5,
       "title": "Post 5",
-      "author": "Maxime1"
+      "author": "Maxime1",
+      "content": "je bois du citron"
     },
     {
       "id": 6,
       "title": "Post 6",
-      "author": "Maxime1"
+      "author": "Maxime1",
+      "content": "je bois de l'hiver"
     },
     {
       "id": 7,
       "title": "Post 7",
-      "author": "lucas"
+      "author": "lucas",
+      "content": "je bois de l'eau oxygene"
     },
     {
       "id": 8,
       "title": "Post 8",
-      "author": "lucas"
+      "author": "lucas",
+      "content": "je bois de l'eau nulle"
     },
     {
       "id": 9,
       "title": "Post 9",
-      "author": "Tom"
+      "author": "Tom",
+      "content": "je bois de l'eau potable"
     },
     {
       "id": 10,
       "title": "Post 10",
-      "author": "Tom"
+      "author": "Tom",
+      "content": "je bois de l'eau pétillante"
     },
     {
       "id": 11,
       "title": "Post 11",
-      "author": "lucas"
+      "author": "lucas",
+      "content": "je bois de l'eau"
     },
     {
       "id": 12,
       "title": "Post 12",
-      "author": "lucas"
+      "author": "lucas",
+      "content": "je bois de l'eau"
     }
 
   ],
